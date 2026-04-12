@@ -6,8 +6,9 @@ This section of the repository contains scripts developed as part of my research
 
 2. **Bash Scripts:** Automation of repetitive computational tasks and efficient data extraction from output files.
 
-3. **ASE (Atomic Simulation Environment) Scripts**: Python-based scripts for atomistic modelling
-   (a) Adsorption studies of reaction intermediates on CuCo2S4 and CuCoFeS4 for Oxygen Evolution Reaction (OER) and Oxygen Reduction Reaction (ORR) .
+3. **ASE (Atomic Simulation Environment) Scripts**: Python-based scripts for atomistic modelling.
+ 
+   (a) Adsorption studies of reaction intermediates on CuCo2S4 and CuCoFeS4 for Oxygen Evolution Reaction (OER) and Oxygen Reduction Reaction (ORR).
 
 
 
