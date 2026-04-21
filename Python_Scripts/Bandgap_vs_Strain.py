@@ -6,7 +6,7 @@ x = bg[:,0]
 bg_bisb = bg[:,1]
 bg_bias = bg[:,2]
 
-plt.figure(figsize=(8,5))
+plt.figure(figsize=(8,6))
 plt.plot(x, bg_bisb, marker='s', markersize=6, color='r',
          linewidth=2.5, markeredgecolor='black', label='BiSb')
 plt.plot(x, bg_bias, marker='o', markersize=6, color='b',
