@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.interpolate import make_interp_spline
 
-data = np.loadtxt('neb_no_entropy.dat')
+data = np.loadtxt('neb.dat')
 images = data[:, 0]
 energies = data[:, 1]
 energies -= energies[0]  
